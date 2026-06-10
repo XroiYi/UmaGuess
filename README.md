@@ -19,3 +19,5 @@ An fan made project of Umamusume. Inspired by **Umaguessr** which is also a grea
 #### Clone repository
 
 > git clone https://github.com/XroiYi/UmaGuess
+
+## **Update Logs**
