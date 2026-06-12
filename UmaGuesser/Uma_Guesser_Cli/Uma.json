@@ -1,0 +1,1271 @@
+[
+    {
+        "Name": "Admire Groove",
+        "Profile": "アドマイヤグルーヴです。\\n甘さも優しさも、私には必要ありません。\\n自分を高めていきたい…それだけですから",
+        "Slogan": "気高く、凜と\\n――孤に咲く蒼銀の花",
+        "Weaknesses": "囲み取材、スキンシップ全般",
+        "Ears Fact": "イヤホンはノイキャンがないと落ち着かない",
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Admire Vega",
+        "Profile": "Admire Vega. ...Can I go now? I need to train more, win more races, and I need to become a first-magnitude star.",
+        "Slogan": "Burdened with resolve. A first magnitude star who stays alone.",
+        "Weaknesses": "Busy places",
+        "Ears Fact": "They twitch to voices that sound like an older sister.",
+        "Tail Fact": "She has a habit of unconsciously clutching it while sleeping.",
+        "Family Fact": "They prepare two birthday cakes every year."
+    },
+    {
+        "Name": "Agnes Digital",
+        "Profile": "Hewwo! I'm Digi-tan! I'm a massive fan of all of the sparkling Umamusume! I'm so happy every day! I'm so glad I was born an otaku!~♪",
+        "Slogan": "She loves Umamusume! A super all-around otaku.",
+        "Weaknesses": "Shipping discourse",
+        "Ears Fact": "Catching emo vibes makes her ears stand on edge.",
+        "Tail Fact": "She goes to the hairdresser to get her hair done before a live.",
+        "Family Fact": "My family's hobbies include: Camping! Festivals! BBQ!"
+    },
+    {
+        "Name": "Agnes Tachyon",
+        "Profile": "Aren't you interested about how fast a Umamusume can go? If you are, I, Agnes Tachyon, would like you to be my guinea pig.",
+        "Slogan": "A Forbidden Mad Scientist. Physical research is everything!",
+        "Weaknesses": "Research interference, bitterness",
+        "Ears Fact": "She refuses to be touched on the ears or forehead.",
+        "Tail Fact": "When she gets an idea, her tail stands on end.",
+        "Family Fact": "The unorthodox child of a family with a spectacular reputation in the racing world."
+    },
+    {
+        "Name": "Air Groove",
+        "Profile": "I am Air Groove. If you don't bend your beliefs, your ideals will surely sprout. To demonstrate this, I, the Empress, will be the guiding light for everyone.",
+        "Slogan": "Level-headed \"Empress\",a talented and colorful career lady!",
+        "Weaknesses": "Flashing lights and sudden movements",
+        "Ears Fact": "They droop gently when tending to flowers.",
+        "Tail Fact": "She uses the same tail oil as her mother.",
+        "Family Fact": "She spends all year meticulously planning her mother's birthday party."
+    },
+    {
+        "Name": "Air Messiah",
+        "Profile": "Air Messiah. I want to be strong and graceful, like my mother was. I will prove the greatness and value of the future.",
+        "Slogan": "Steadfast in achieving her mother's wish that she carries with her.",
+        "Weaknesses": "Winking on command",
+        "Ears Fact": "They flop down when she relaxes.",
+        "Tail Fact": "She's got her tail hair from her mother's side.",
+        "Family Fact": "They all write in their own diaries."
+    },
+    {
+        "Name": "Air Shakur",
+        "Profile": "I'm Air Shakur. In any case, data speaks louder than victory or defeat. I don't have a problem with simulation, I'll screw you over, logistically.",
+        "Slogan": "Let's be logical! An eccentric genius girl.",
+        "Weaknesses": "Cicadas",
+        "Ears Fact": "They stand upright during logical thinking.",
+        "Tail Fact": "She calculates and maintains the appropriate length and hair volume for efficient running.",
+        "Family Fact": "She never opened the allowance money her mother sent her."
+    },
+    {
+        "Name": "Almond Eye",
+        "Profile": "I'm Almond Eye. I will win, even if my opponent's a legend. That's what I believe in!",
+        "Slogan": "Hates losing with a passion! The ultimate challenger.",
+        "Weaknesses": "変装、サウナ",
+        "Ears Fact": "日焼け対策は、革製の耳カバー",
+        "Tail Fact": "ヨガの時は結ぶ",
+        "Family Fact": "家族ドライブ中はヒップホップで盛り上がる"
+    },
+    {
+        "Name": "Aston Machan",
+        "Profile": "I'm Machan. Aston Machan. I will eventually become the world's mascot. Keep looking straight at me with those eyes.",
+        "Slogan": "A mascot to aim for. Some transient and eccentric girl.",
+        "Weaknesses": "Whistling",
+        "Ears Fact": "Often loses earrings. This is her 9th set.",
+        "Tail Fact": "Looking for a style that will look good in merch",
+        "Family Fact": "When her mother fell asleep on the couch, she was in charge of carrying her to bed."
+    },
+    {
+        "Name": "Bamboo Memory",
+        "Profile": "Hey there! Bamboo Memory! I'm going to run hard to earn the name of \"Demon Chairman of the Public Discipline Committee\"!",
+        "Slogan": "Seeking serious competition! The hot-blooded chairman of the Public Morals Committee!",
+        "Weaknesses": "Chewing her food properly",
+        "Ears Fact": "They droop down when her headband is taken off.",
+        "Tail Fact": "She disciplines her tail every day too.",
+        "Family Fact": "Her father, a passionate gym teacher, is her mentor and origin point."
+    },
+    {
+        "Name": "Believe",
+        "Profile": "ビリーヴです。\\nいい仕事をしたいと思います。\\n…………お願いします",
+        "Slogan": "『最速』とは業の極み\\n堅忍不抜の職人ウマ娘",
+        "Weaknesses": "犬が悲しい目にあう話",
+        "Ears Fact": "モルタルを作る際は音も頼りにしている",
+        "Tail Fact": "ケア用ブラシは知る人ぞ知る職人の逸品",
+        "Family Fact": "祖父母の家の柱には背比べの跡が残っている"
+    },
+    {
+        "Name": "Biko Pegasus",
+        "Profile": "The hero of justice, Biko Pegasus, is here! I can take down any formidable foe and make everyone smile! Isn't that great!",
+        "Slogan": "The flame of justice burns bright! A passionate Hero rises!",
+        "Weaknesses": "Eating too much without realizing it",
+        "Ears Fact": "Always listening for cries for help.",
+        "Tail Fact": "She accidentally steps on it when posing like a hero.",
+        "Family Fact": "Sunday mornings are Tokusatsu time with the whole family!"
+    },
+    {
+        "Name": "Biwa Hayahide",
+        "Profile": "I'm Biwa Hayahide. My goal is to assemble the perfect winning formula. ...Also, I have a normal-sized head!",
+        "Slogan": "Passionate intellect. Use logic as your weapon!",
+        "Weaknesses": "Rainy season",
+        "Ears Fact": "As a child, she was sensitive to noises and was often startled by them.",
+        "Tail Fact": "When it's damp, she has a hard time getting her tail into the tail hole of her clothes.",
+        "Family Fact": "Her mother and her sister used to have matching hairstyles."
+    },
+    {
+        "Name": "Blast Onepiece",
+        "Profile": "It's me, Blast Onepiece! Humans are so friendly to me. I love them super duper much! I wanna get closer to them and get to know them even better!",
+        "Slogan": "A friendly Umamusume with a great fondness for humans.",
+        "Weaknesses": null,
+        "Ears Fact": null,
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Bubble Gum Fellow",
+        "Profile": "I declare: \"As shock troop commander, I will conceive the cyclone of the Big Four!\" Let's expand our dream together!",
+        "Slogan": "A shock troop commander with a fighting spirit and an expanding dream!",
+        "Weaknesses": "Hamsters",
+        "Ears Fact": "She has the sharpest ears of the Big Four.",
+        "Tail Fact": "She loves to decorate it with pastel colors.",
+        "Family Fact": "They all have a refined sweet smell."
+    },
+    {
+        "Name": "Buena Vista",
+        "Profile": "I'm Buena Vista! I want to fulfil my promise. To reach that beautiful scenery.",
+        "Slogan": "One day she will reach the scenery she longs for. An earnest Umamusume full of love.",
+        "Weaknesses": "渋滞、サスペンス映画",
+        "Ears Fact": "ファンの声を聴き分ける精度はかなりのもの",
+        "Tail Fact": "一緒に歩く人の方に、少しだけ傾く",
+        "Family Fact": "なんでも母親の真似をしていた時期がある"
+    },
+    {
+        "Name": "Calstone Light O",
+        "Profile": "Calstone Light O. My dream is to break all speed records. My favorite thing... Straight lines. That's it. Even my introduction goes by in a flash.",
+        "Slogan": "To the light, and beyond! A leader who presses on at top speed.",
+        "Weaknesses": "Quadratic functions, diving",
+        "Ears Fact": "Can hear cats meow from miles away.",
+        "Tail Fact": "Cuts her hair perfectly straight using a ruler.",
+        "Family Fact": "She can tell what her parents are thinking about from their facial expressions alone."
+    },
+    {
+        "Name": "Cesario",
+        "Profile": "I desire to solidify my future through coronation with the tiara. ――Oh, and nice to meet you!",
+        "Slogan": "A strict warrior and holy mother. An Umamusume with two sides.",
+        "Weaknesses": "Tragic love stories, winter mornings",
+        "Ears Fact": "They need pampering lest they droop down.",
+        "Tail Fact": "She uses deep-sea water shampoo for it.",
+        "Family Fact": "Her mother has a secret recipe for carrot glacé."
+    },
+    {
+        "Name": "Cheval Grand",
+        "Profile": "I'm... Sheval Grand... I know I'm nothing... special... But one day... I'll achieve greatne— N-no, I'll try my hardest!",
+        "Slogan": "A shy Umamusume full of ambition. Aiming for greatness.",
+        "Weaknesses": "Introducing herself, controlling her weight",
+        "Ears Fact": "When she's alone, she takes off her hat and exposes them to the wind.",
+        "Tail Fact": "Vivlos often braids it without permission.",
+        "Family Fact": "Family members take turns deciding the destinations of their overseas trips."
+    },
+    {
+        "Name": "Chrono Genesis",
+        "Profile": "クロノジェネシスです。レース史を\\n探究するのが好きで…私も、刻みたいと\\n思っています。自分の蹄跡を",
+        "Slogan": "稀代のレース史好き。\\n新時代の創生を！",
+        "Weaknesses": "過度な湿気",
+        "Ears Fact": "メモ用のペンが挟めるリングを考案中",
+        "Tail Fact": "ファンファーレが鳴るとリズムをとりだす",
+        "Family Fact": "一家で書斎に籠り、最後は全員寝落ちする"
+    },
+    {
+        "Name": "Copano Rickey",
+        "Profile": "Rickey ☆ Lucky ☆ Auspicious ☆ Copano Rickey! The power of Feng Shui will bring you happiness too ♪",
+        "Slogan": "Rickey ☆ Lucky ☆ A helpful Feng shui girl ☆",
+        "Weaknesses": "Dusty places",
+        "Ears Fact": "Both of her ear covers were handmade by her dad.",
+        "Tail Fact": "It tends to flutter towards the luckiest direction of the day.",
+        "Family Fact": "She has a lot of siblings, so her home is very lively ☆"
+    },
+    {
+        "Name": "Curren Bouquetd'or",
+        "Profile": "カレンブーケドールです。好きなことは、\\nお花を綺麗に飾ること。あと、そうですね…\\n争いごとは――少し、苦手かもしれません",
+        "Slogan": "願いと優しさを束ねて駆ける\\n可憐なる華",
+        "Weaknesses": null,
+        "Ears Fact": null,
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Curren Chan",
+        "Profile": "I'm Curren, a.k.a. Curren Chan! I'm going to wrap the world in \"cuteness\"!☆ Don't look away, look at Curren ♪",
+        "Slogan": "A flash of adorable light! Love her lots ♪",
+        "Weaknesses": "Eating snacks with tea",
+        "Ears Fact": "When they move like beckoning hands, she wants to be pampered.",
+        "Tail Fact": "Fluffy and silky to the touch, it'll make you fall in love with it.",
+        "Family Fact": "They missed their daughter so much that they applied to be members of Tracen Academy's staff."
+    },
+    {
+        "Name": "Daiichi Ruby",
+        "Profile": "My name is Daiichi Ruby. To be supreme is the duty of my family. I will strive to fulfill my duty.",
+        "Slogan": "Victory is a must. An umamusume from a brilliant family.",
+        "Weaknesses": "Sunshowers, badly fitting clothes",
+        "Ears Fact": "Can stand straight and attentive when listening to music.",
+        "Tail Fact": "The hairtips naturally curl themselves into classy shapes.",
+        "Family Fact": "A photograph of her mother and grandmother hangs in her room."
+    },
+    {
+        "Name": "Daitaku Helios",
+        "Profile": "Weee~iii! I'm Daitaku Helios~! I'm gonna run the most hype race ever, so please give me your best call! ☆",
+        "Slogan": "Live it up ☆ Party Everyday!",
+        "Weaknesses": "Silence got her blue, formal speech's more like purple",
+        "Ears Fact": "They're hilariously active on sunny days.",
+        "Tail Fact": "Loves making heart shapes with her friends for photos.",
+        "Family Fact": "Playing dead always fools her parents lol"
+    },
+    {
+        "Name": "Daiwa Scarlet",
+        "Profile": "Hello, I'm Daiwa Scarlet! I'll do my best to... Hmph! I'm going to be number one. That's all!",
+        "Slogan": "Self-important! A girl with a competitive streak!",
+        "Weaknesses": "Compromising",
+        "Ears Fact": "They unconsciously reveal her true feelings.",
+        "Tail Fact": "She struggles to brush it every morning.",
+        "Family Fact": "She misses her mother, who's always enthusiastic about her racing"
+    },
+    {
+        "Name": "Dantsu Flame",
+        "Profile": "I'm Dantsu Flame. Hey, no fighting okay? I work hardest after eating something sweet, I guess?",
+        "Slogan": "A nice-natured Umamusume with a cute side. She's easily swayed by others.",
+        "Weaknesses": "自分のための服選び",
+        "Ears Fact": "メンコの色を決めるのに3日悩んだ",
+        "Tail Fact": "怪談を聞いているとピコピコ跳ねる",
+        "Family Fact": "全員、引っ越しの荷造りスピードがプロ級"
+    },
+    {
+        "Name": "Daring Heart",
+        "Profile": "Follow my lead!　期待していてね。\\n私には必ずティアラの輝きが降りそそぐ。\\n未来のクイーン・デアリングハートにね！",
+        "Slogan": "洗練された自信\\n煌めくはクイーンハート！",
+        "Weaknesses": null,
+        "Ears Fact": null,
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Daring Tact",
+        "Profile": "デアリングタクトです。厳しくも温かく\\n育んでくれた故郷のため…夢は大きく、\\n『歴史に残るウマ娘になる』、です！",
+        "Slogan": "清廉なる大自然の申し子",
+        "Weaknesses": null,
+        "Ears Fact": null,
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Dream Journey",
+        "Profile": "I, Dream Journey am there for you if you're looking to go on an expedition beyond your dreams. I can feel it in you.",
+        "Slogan": "One ought not to look into the eyes on a dream journey filled with happiness.",
+        "Weaknesses": "Flies",
+        "Ears Fact": "Shall not be touched!",
+        "Tail Fact": "Shall not be touched!",
+        "Family Fact": "Not a day goes by that she doesn't think about them."
+    },
+    {
+        "Name": "Duramente",
+        "Profile": "...I'm Duramente. My goal is not to win, but to lead with great strength. ...That's all.",
+        "Slogan": "The strongest passion flows through her. She's the fruit of an esteemed family.",
+        "Weaknesses": "Bad at cracking eggs cleanly",
+        "Ears Fact": "Often stand up straight and motionless.",
+        "Tail Fact": "She got it to the perfect weight for exercise.",
+        "Family Fact": "Her family gets serious in table tennis matches at hot spring vacations."
+    },
+    {
+        "Name": "Durandal",
+        "Profile": "My holy sword shall release a blazing light, which shall free you from the darkness that devours you. My name is Durandal. I vow to be your loyal knight!",
+        "Slogan": "Pay heed! The devoted sacred sword with dazzling footwork.",
+        "Weaknesses": "Staring contests, traveling alone, capitulation",
+        "Ears Fact": "They particularly pay attention to compliments.",
+        "Tail Fact": "She wonders if she couldn't use it as a weapon.",
+        "Family Fact": "Who gets to do house chores is decided through games of \"Acchi Muite Hoi\"."
+    },
+    {
+        "Name": "Eishin Flash",
+        "Profile": "My name is Eishin Flash. In order to keep the tradition of Umamusume alive, I will continue to run. Every race and everything else is on schedule.",
+        "Slogan": "Everything is according to plan. The respectful and honest Mädchen.",
+        "Weaknesses": "Drawing, other than replication",
+        "Ears Fact": "Listening to the sound of a metronome soothes her.",
+        "Tail Fact": "She cuts it to the nearest tenth of a millimeter.",
+        "Family Fact": "They run a cake shop, and their specialty is baumkuchen."
+    },
+    {
+        "Name": "El Condor Pasa",
+        "Profile": "I'm the crimson bird that runs the course! El Condor Pasa is closing in! I'm flying around the world!",
+        "Slogan": "Mystery North American bird! The cheerful and eccentric lucha libre",
+        "Weaknesses": "Being quiet",
+        "Ears Fact": "She goes on the defense when she hears the wrestling count.",
+        "Tail Fact": "Grabbing her tail is an automatic foul.",
+        "Family Fact": "She grew up with a hawk named Mambo. He's like her sibling."
+    },
+    {
+        "Name": "Epiphaneia",
+        "Profile": null,
+        "Slogan": null,
+        "Weaknesses": null,
+        "Ears Fact": null,
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Espoir City",
+        "Profile": "This here gal's Espoir City! Keep them races comin'! I'll leave 'em in the... dust...? Hey, hands off! I didn't ask ya to pat my head!",
+        "Slogan": "\"Beat me if you can!\" A rebellious girl who loves to bicker.",
+        "Weaknesses": "心理テスト、静電気",
+        "Ears Fact": "最初のピアスを開ける決心に1か月を要した",
+        "Tail Fact": "リッキーの櫛で適当にケア※開運効果アリ☆",
+        "Family Fact": "弟の運動会はこの一家のかけ声が一番大きい"
+    },
+    {
+        "Name": "Fenomeno",
+        "Profile": "はっ！本官はフェノーメノ、所属は\\n中央トレセン学園であります！子どもたちの\\n規範となるべく、粉骨砕身してまいります！",
+        "Slogan": "厳格なる正義――\\n走る強面おまわりさん",
+        "Weaknesses": "ヘアワックス、ハッカ飴",
+        "Ears Fact": "威厳のある毛並みはひそかなお気に入り",
+        "Tail Fact": "ボスの前ではたいてい揺れている",
+        "Family Fact": "一家揃ってつぶあん派"
+    },
+    {
+        "Name": "Fine Motion",
+        "Profile": "Good day, I'm Fine Motion! I want to make lots of great memories. First things first, I want to know where the best noodle shops are. ♪",
+        "Slogan": "A free-spirited memory maker! She's a sheltered Royal Lady.",
+        "Weaknesses": "Suspicious of others",
+        "Ears Fact": "They love hearing about new, popular culture.",
+        "Tail Fact": "She has the unique hair texture of royalty. Commonly known as a \"Royal Tail\".",
+        "Family Fact": "She's better at taking care of her uninhibited and open-minded sister than her parents are."
+    },
+    {
+        "Name": "Forever Young",
+        "Profile": "Hi!　フォーエバーヤングだよ！\\nロードマップの準備はOK！ウマ娘界に\\nイノベーション、起こすしかないっしょ！",
+        "Slogan": "革新もたらす\\nカリスマギャルウマ娘",
+        "Weaknesses": null,
+        "Ears Fact": null,
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Fuji Kiseki",
+        "Profile": "I'm the jet-black entertainer, Fuji Kiseki! I'll make you smile with my best \"miracle\"!",
+        "Slogan": "Leave the escorting to me! A gorgeous & gentle girl!",
+        "Weaknesses": "Sweet foods",
+        "Ears Fact": "She has perfect pitch.",
+        "Tail Fact": "It sways gracefully, like a feather in an opera.",
+        "Family Fact": "She comes from a stage family; her parents travel all over the country."
+    },
+    {
+        "Name": "Furioso",
+        "Profile": "I'm Furioso. No, I don't come from Chuo. I made a special transfer from Funabashi and I'm not afraid to show you what we're made of.",
+        "Slogan": "A calm transfer student from the countryside, with unwavering love of Funabashi.",
+        "Weaknesses": "Jellyfish",
+        "Ears Fact": "They become active when she hears the sound of the waves or the salty sea breeze.",
+        "Tail Fact": "When she finds herself moved by her feelings, she reprimands herself by slapping it against her legs.",
+        "Family Fact": "Their staple on birthdays is a tart with Asian pears."
+    },
+    {
+        "Name": "Fusaichi Pandora",
+        "Profile": null,
+        "Slogan": "飛び出せ！\\n無限の希望とマシュマロハート♡",
+        "Weaknesses": "キツすぎちゃうのはイヤ",
+        "Ears Fact": null,
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Gentildonna",
+        "Profile": "Logic and reason? Pure nonsense. Winning is the only thing that matters, no? I won't let anything get in my way to do so.",
+        "Slogan": "A strong-willed lady with blossoming strength!",
+        "Weaknesses": "Leopard prints, tapioca",
+        "Ears Fact": "She's really picky about matching her ear covers to her outfit.",
+        "Tail Fact": "She wears a needle lace tail cover for bedtime.",
+        "Family Fact": "She's been taken up Mt. Fuji to the third station at 3 years old, the 5th station at 5 and to the top at 7."
+    },
+    {
+        "Name": "Gold City",
+        "Profile": "Gold City. ...Just so you know, I won't forgive you if you treat me like a doll. Don't judge me by my looks, but by the way I run.",
+        "Slogan": "A blunt, but high-quality gal!",
+        "Weaknesses": "Waking up early",
+        "Ears Fact": "They'd like to break her alarm clock.",
+        "Tail Fact": "Unconsciously stays still when being photographed.",
+        "Family Fact": "Her mother has clear skin, and her father is a brilliant blonde."
+    },
+    {
+        "Name": "Gold Ship",
+        "Profile": "Yo, I'm Gold Ship! I don't care if it's on the turf, on fire, or at the edge of the universe. I'm going to find something interesting wherever I can! ☆",
+        "Slogan": "Rude and unrestrained! An enigmatic golden denpa girl!",
+        "Weaknesses": "Staying still",
+        "Ears Fact": "Loves to suddenly cover another person's ears and asking \"Guess who?\".",
+        "Tail Fact": "She sometimes leaves it in her room (according to her).",
+        "Family Fact": "They seem to be a national secret."
+    },
+    {
+        "Name": "Gran Alegria",
+        "Profile": "Gran Alegria here! From 0.75 miles to 1.25 miles nothing can stop this here future Queen of Mile!",
+        "Slogan": "With a s-mile, anything is possible! The strongest Mile Umamusume.",
+        "Weaknesses": "深海魚、静かな場所、かくれんぼ",
+        "Ears Fact": "マッサージされると爆速で眠くなる",
+        "Tail Fact": "眠る前は赤いリボンで毛先までまとめる",
+        "Family Fact": "家族全員が英語で話す『英語の日』がある"
+    },
+    {
+        "Name": "Grass Wonder",
+        "Profile": "My name is Grass Wonder. Since I was born as a Umamusume, I want to pursue this path to the end. Hehe ♪",
+        "Slogan": "Neat and pretty. The ideal Japanese woman from America.",
+        "Weaknesses": "Insects, disrespecting history and tradition.",
+        "Ears Fact": "They don't move an inch when she's making tea.",
+        "Tail Fact": "Able to swat bugs without looking behind her.",
+        "Family Fact": "\"My parents influenced my love for Japan. They have a Japanese-style room in their house.\""
+    },
+    {
+        "Name": "Haru Urara",
+        "Profile": "I'm Haru Urara! I love carrots and I lo~ve running because it's fun!♪ I'm going to try my very best to finish first!",
+        "Slogan": "She has lots of losses, but won't lose hope! The girl who never gives up!",
+        "Weaknesses": "Difficult kanji",
+        "Ears Fact": "Hard words go in the right and come out the left.",
+        "Tail Fact": "She thought spinning it would make her go faster.",
+        "Family Fact": "Her favorite dish is her mother's carrot rice."
+    },
+    {
+        "Name": "Hishi Akebono",
+        "Profile": "I'm Hishi Akebono ♪ I'll put lo~ts of love into both cooking and running for everybody! It's nice to meet you!~",
+        "Slogan": "Large! Great! Big... plate? Bono appétit ♪",
+        "Weaknesses": "Being in charge of hotpots",
+        "Ears Fact": "They always catch the slightest sound of hunger.",
+        "Tail Fact": "It swishes around a lot while she's whisking.",
+        "Family Fact": "Her father is a master chef, and her mother is a baking teacher."
+    },
+    {
+        "Name": "Hishi Amazon",
+        "Profile": "There are a lot of good-lookin' people here... hehe. I'll take them all on. I'm Hishiama! Come on, let's get to it!",
+        "Slogan": "She's up for a fight! Our trusty Miss Matron.",
+        "Weaknesses": "Using her head",
+        "Ears Fact": "Very sensitive to hearing the word \"taiman\".",
+        "Tail Fact": "Many students admire her shiny black hair.",
+        "Family Fact": "She's the youngest child, but has a mother's touch."
+    },
+    {
+        "Name": "Hishi Miracle",
+        "Profile": "I'm Hishi Miracle. I'm doing my best while keeping the vibes good. I hope you'll do the same, okay?",
+        "Slogan": "A laid-back Umamusume. Today is business as usual.",
+        "Weaknesses": "Swimming...",
+        "Ears Fact": "It takes a while for them to stand up after waking up in the morning.",
+        "Tail Fact": "She's thought about dyeing it before.",
+        "Family Fact": "Her parents sent in her application to the academy before she could."
+    },
+    {
+        "Name": "Hokko Tarumae",
+        "Profile": "I'm Hokko Tarumae, I came here from a port town in the north like a paper crane. The Loco-dol of Tomakomai♪ ...Hmm, maybe I could come up with something more clever.",
+        "Slogan": "A realist local idol. Running for Tomakomai.",
+        "Weaknesses": "Praying for good fortune, boarding ships",
+        "Ears Fact": "Never forgets to wear her ear covers.",
+        "Tail Fact": "More active when in Locadol mode.",
+        "Family Fact": "Her allowance always includes some fine Tomakomai sweets."
+    },
+    {
+        "Name": "Ikuno Dictus",
+        "Profile": "My name is Ikuno Dictus. If you are looking for management, leave it to me. I will manage you thoroughly with an iron will.",
+        "Slogan": "A thorough managing principle. A capable Umamusume who combines hot with cold.",
+        "Weaknesses": "Gambling, taking selfies",
+        "Ears Fact": "The fur on both ears always matches exactly.",
+        "Tail Fact": "She uses it to point at things.",
+        "Family Fact": "She tends to lead family meetings."
+    },
+    {
+        "Name": "Inari One",
+        "Profile": "The hell are ya sayin'?! I'm Inari One! As you can see, I'm an efficient child of Edo! I wanna become the biggest Umamusume of them all!",
+        "Slogan": "The hell are ya sayin'?! A self-proclaimed \"Edo child\" with lightning speed.",
+        "Weaknesses": "Waiting in line, flattery",
+        "Ears Fact": "When they hear the sound of festival music, they move as if they were performing a dance.",
+        "Tail Fact": "Washing it with hot water even in the middle of summer is a chic obsession.",
+        "Family Fact": "Her family's rule is that the order of bathing is determined by playing Menko."
+    },
+    {
+        "Name": "Ines Fujin",
+        "Profile": "Hey hey~! I'm Ines Fujin! I'm going to race and work hard to make sure my family is happy!~",
+        "Slogan": "Full of energy! A hardworking family girl!",
+        "Weaknesses": "Luxury, favors (she can't refuse them)",
+        "Ears Fact": "They tend to react to the sound of little children's voices.",
+        "Tail Fact": "Used to being played with by her sisters, she's never surprised when it gets grabbed.",
+        "Family Fact": "Her family rule is \"Hold hands when going out.\""
+    },
+    {
+        "Name": "Jungle Pocket",
+        "Profile": "Jungle Pocket's the name. I'll be your partner, as long as you wanna run! But don't think you'll be taking my title of \"the strongest\"!",
+        "Slogan": "Dashing down the highway to become the strongest! A flaw- lessly charismatic delinquent.",
+        "Weaknesses": "Sad stories, mints",
+        "Ears Fact": "Birds sometimes land on them.",
+        "Tail Fact": "It flaps like crazy when she's near Fuji Kiseki.",
+        "Family Fact": "She can't get over the fact that her older brother is popular with the girls."
+    },
+    {
+        "Name": "K.S. Miracle",
+        "Profile": "...I am K.S. Miracle. I will repay everyone who gave me this life... I will make miracles happen.",
+        "Slogan": "A miracle as a sign of gratitude. A kind and gentle Umamusume.",
+        "Weaknesses": "Deep flavors, sirens",
+        "Ears Fact": "They shake a little when she hears laughter.",
+        "Tail Fact": "Has a soapy fragrance.",
+        "Family Fact": "Her vocabulary increases slightly when she talks to her parents."
+    },
+    {
+        "Name": "Katsuragi Ace",
+        "Profile": "Nice to meetcha! I'm Katsuragi Ace. Don't be afraid to dream, okay? I'll break down any walls that stand in your way!",
+        "Slogan": "Aiming to become the ace! A lively girl dashing towards her great ambition.",
+        "Weaknesses": "Microwave rice, train transfers, travelators",
+        "Ears Fact": "She puts on her ear covers last when changing clothes, and gets pumped up.",
+        "Tail Fact": "She welcomes brushing at any time.",
+        "Family Fact": "Her parents say that she's aughty and a handful to this day."
+    },
+    {
+        "Name": "Kawakami Princess",
+        "Profile": "Oh-ho-ho! I am Kawakami Princess... Yes, a princess above all princesses! I'll daintily knock you off of your feet at the races!",
+        "Slogan": "Aim to become a Princess! A magnificent tomboyish Umamusume.",
+        "Weaknesses": "Wasteful spending",
+        "Ears Fact": "She's proud to admit that among all other Umamusume, her ears look the best with a tiara.",
+        "Tail Fact": "She has a self-proclaimed \"princess tail\".",
+        "Family Fact": "They always picked out cute and durable clothes for her."
+    },
+    {
+        "Name": "King Halo",
+        "Profile": "Ohhh-ho-ho! My name is King Halo. As a first-class Umamusume, I'll give you the best results... And show the world this talent of mine!",
+        "Slogan": "A domineering young lady. Her pride is higher than the sky!",
+        "Weaknesses": "Crowds, heat, etc. aren't appropriate for the King",
+        "Ears Fact": "They don't want to hear anything other than topics adequate for the first-class.",
+        "Tail Fact": "Her tail wagging is always top-notch.",
+        "Family Fact": "Her mother is catastrophically incapable of housework, so she has servants."
+    },
+    {
+        "Name": "Kiseki",
+        "Profile": "キセキです！苦しい修行、熱い友情、\\nドラマティックな勝利！そんなレースの\\n世界で、あたしが主人公になってみせます！",
+        "Slogan": "奇跡を描く、\\n情熱系クリエイター",
+        "Weaknesses": "結果発表を待つこと、リズムゲーム",
+        "Ears Fact": "かっこいい単語には敏感に反応",
+        "Tail Fact": "原稿を描くとき、無意識のうちに触っちゃう",
+        "Family Fact": "両親の帰りが遅くても先に寝るのが決まり"
+    },
+    {
+        "Name": "Kitasan Black",
+        "Profile": "I'm Kitasan Black! I'm going to run as fast as I can to make this race as exciting as a festival!",
+        "Slogan": "She lights up our hearts! A cheerful and lively festival girl!",
+        "Weaknesses": "Turning a blind eye to things",
+        "Ears Fact": "She has an excellent sense of sound.",
+        "Tail Fact": "Even her tail can hold heavy things.",
+        "Family Fact": "A family of 30 people, including her father's disciples, live with her."
+    },
+    {
+        "Name": "Logotype",
+        "Profile": null,
+        "Slogan": null,
+        "Weaknesses": null,
+        "Ears Fact": null,
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Loves Only You",
+        "Profile": "ラヴズオンリーユーです♪\\n私の愛【ラヴ】は一方通行じゃなく双方向！\\n配信で、世界中に広めていこうね♡",
+        "Slogan": "ラヴミー♡ラヴユー♡\\n愛あふれる配信者",
+        "Weaknesses": "お絵かき、ホラーゲーム、何もしない休み",
+        "Ears Fact": "配信ノイズは360度、聞き逃さない",
+        "Tail Fact": "猫の注意を引き、配信に飛び入りはさせない",
+        "Family Fact": "記念日の撮影は、写真ではなく動画"
+    },
+    {
+        "Name": "Lucky Lilac",
+        "Profile": "My name's Lucky Lilac, nice to meetcha. I'll overcome any and all trials to become the star of the turf.",
+        "Slogan": "The flower that survives the long winter will surely bloom magnificently.",
+        "Weaknesses": "ナメクジ、廃墟、ヒトコワ系の怪談",
+        "Ears Fact": "自分の足音を聞いて歩き方を調整している",
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Manhattan Cafe",
+        "Profile": "...I am Manhattan Cafe. I have a friend I want to catch up to... The girl who always runs in front of me... She's right there...",
+        "Slogan": "A mysterious girl chasing after a ghostly shadow.",
+        "Weaknesses": "Sunny days",
+        "Ears Fact": "Apparently, there is a voice that only she can hear.",
+        "Tail Fact": "She has naturally soft and silky hair.",
+        "Family Fact": "Her family loves coffee, so their beans are specially imported."
+    },
+    {
+        "Name": "Marche Lorraine",
+        "Profile": "え、えっと…その――『こんにちは☆\\nマルちゃんだよ♪幼馴染のラヴちゃんと\\n一緒に、頑張りまーすっ☆』",
+        "Slogan": "パぺットの陰から、\\n世界を望む",
+        "Weaknesses": null,
+        "Ears Fact": null,
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Maruzensky",
+        "Profile": "Hi, I'm Maruzensky! Did you come to see this new style of running too? Hehe ♪ Even though I'm crazy about it... I don't know how to feel ♪",
+        "Slogan": "Retro-Showa style Supercar Lady",
+        "Weaknesses": "Driving slowly",
+        "Ears Fact": "Listening to Eurobeat makes her want to drive faster.",
+        "Tail Fact": "She likes to shampoo her hair in the morning to make it smooth and silky.",
+        "Family Fact": "She drives her father's second-hand red supercar."
+    },
+    {
+        "Name": "Marvelous Sunday",
+        "Profile": "Hi hi~, I'm Marvelous Sunday! I'm bringing a Marvelous feeling to the whole world! Now, let's all be Marvelous together!",
+        "Slogan": "Marvelous! Vibrant, invincible, and changing the world!",
+        "Weaknesses": "Coffee and tea",
+        "Ears Fact": "They help her identify marvelous sounds☆",
+        "Tail Fact": "When she finds something marvelous, it goes up like an antenna☆",
+        "Family Fact": "She loves her grandma, and they go leaf peeping together in the fall."
+    },
+    {
+        "Name": "Matikanetannhauser",
+        "Profile": "Yoo-hoo, I'm Matikanetannhauser. I've been practicing hard so I won't lose to anyon—Oh, today's my day off?!",
+        "Slogan": "A beloved but unpolished great talent. Today is her big day!",
+        "Weaknesses": "Spiders (only real ones), tomato juice",
+        "Ears Fact": "Will pay no attention to noisy environments.",
+        "Tail Fact": "When she cuts it herself, it looks like diagonally cut bangs.",
+        "Family Fact": "Whenever she goes home, her parents hang a banner at their restaurant."
+    },
+    {
+        "Name": "Matikane​fukukitaru",
+        "Profile": "Hello! They call me Matikanefukukitaru! I believe in the divine messages of Shiraoki-sama, and I constantly am working on my fortune telling, waiting for the day I'll be blessed with good fortune!",
+        "Slogan": "Come, good fortune! A divination-loving happy-go-lucky girl.",
+        "Weaknesses": "Unlucky things",
+        "Ears Fact": "She will sometimes use them to point while fortune-telling.",
+        "Tail Fact": "Will suddenly stop moving during a fortune-telling session.",
+        "Family Fact": "Like an excellent older sister, she admires her younger sister's cheerfulness."
+    },
+    {
+        "Name": "Mayano Top Gun",
+        "Profile": "Ehehe, I'm Mayachin!☆ I love thrilling and exciting things~ Nice to meetcha!",
+        "Slogan": "A sweet little sister. She can't wait to grow up!",
+        "Weaknesses": "Hiding things",
+        "Ears Fact": "She doesn't listen to things that she doesn't want to hear.",
+        "Tail Fact": "It swishes around a lot when she lies.",
+        "Family Fact": "Her father was a pilot, so the airport was her playground."
+    },
+    {
+        "Name": "Meisho Doto",
+        "Profile": "I-I'm Me-Meisho Doto! U-uhm, uhm... I've been trying my best to become more confident in... m-mythelf- OWW!",
+        "Slogan": "She's trying to stay positive! A negative go-getter.",
+        "Weaknesses": "Tongue twisters",
+        "Ears Fact": "Frequently trembles in small increments.",
+        "Tail Fact": "She has a habit of fiddling with it when distressed, so it gets tangled up a lot.",
+        "Family Fact": "She is proficient in many languages due to her family's frequent relocation."
+    },
+    {
+        "Name": "Mejiro Ardan",
+        "Profile": "My name is Mejiro Ardan. I want to run proudly, even if these legs will be short-lived... Even if only for a moment, I would like to shine in a race.",
+        "Slogan": "Shine short and bright. The young lady with glass legs.",
+        "Weaknesses": "Fights, quarrels, sakuranbo cherries",
+        "Ears Fact": "The sound of breaking glass makes her ears tilt downwards.",
+        "Tail Fact": "She loves to use a custom-made organic treatment.",
+        "Family Fact": "My mother wants me to invite my friends from the academy over to our house."
+    },
+    {
+        "Name": "Mejiro Bright",
+        "Profile": "............Hmm? Is it time for me to introduce myself? Heheheh, my name is Mejiro Bright. I will try my best as a member of the Mejiro family~.",
+        "Slogan": "A strong will at a loose pace! Carefree lady.",
+        "Weaknesses": "Eating ice cream before it melts",
+        "Ears Fact": "Falls asleep easily while getting her ears cleaned.",
+        "Tail Fact": "She doesn't really notice it when it lays on her hips.",
+        "Family Fact": "During homecoming season, her whole family comes to pick her up."
+    },
+    {
+        "Name": "Mejiro Dober",
+        "Profile": "Hello... I'm Mejiro Dober. I'm a Umamusume of the Mejiro family, and I'm not ashamed to say that... I intend to do my best.",
+        "Slogan": "I want to change! A young lady running with scars from her past.",
+        "Weaknesses": "Men, storms",
+        "Ears Fact": "She freezes up when she hears men's voices.",
+        "Tail Fact": "She prefers products that suit her hair type rather than brand name products.",
+        "Family Fact": "Her father is sad that he can no longer call her \"Ber-chan\"."
+    },
+    {
+        "Name": "Mejiro McQueen",
+        "Profile": "My name is Mejiro McQueen. Conquering the \"Spring Tennosho\" has been a long-cherished goal of the Mejiro family, and I will do it with my own two legs.",
+        "Slogan": "Pride of the prestigious Mejiro family. Elegant, determined young lady.",
+        "Weaknesses": "Resisting the temptation of sweets",
+        "Ears Fact": "They tend to stand alert when in front of others.",
+        "Tail Fact": "Sways wildly when she's talking about sports.",
+        "Family Fact": "Her parents call her \"Mac-chan\"."
+    },
+    {
+        "Name": "Mejiro Palmer",
+        "Profile": "I'm Mejiro Palmer! How ya doing~? Well, if you ever need anything, I'm always here. Feel free to talk to me ♪",
+        "Slogan": "Let's take it easy. A reliable and positive gal.",
+        "Weaknesses": "Hurdle races",
+        "Ears Fact": "They can sense wind direction and wind strength.",
+        "Tail Fact": "It sometimes tickles other people's legs to make them laugh.",
+        "Family Fact": "Her father is a master golfer, but their scores have been reversed."
+    },
+    {
+        "Name": "Mejiro Ramonu",
+        "Profile": "You want to get to know me? Then come to the turf by all means. There you'll learn everything about me... Mejiro Ramonu.",
+        "Slogan": "Races with a love supreme… A devilish flower, blooming unrivaled at the top.",
+        "Weaknesses": "Artificial flowers, microwave ovens",
+        "Ears Fact": "When she gets a massage, she gets her ears massaged to the tips too.",
+        "Tail Fact": "Is always in aerodynamic form.",
+        "Family Fact": "The wintersweet in their garden is a family favorite."
+    },
+    {
+        "Name": "Mejiro Ryan",
+        "Profile": "My name is Mejiro Ryan! Train your body, stay healthy! Grow some muscle, stay fit! Let's go for it!",
+        "Slogan": "She feels fresh and sporty! Even her glistening sweat is pure.",
+        "Weaknesses": "Cholesterol",
+        "Ears Fact": "They twitch around a lot when she's reading shoujo manga.",
+        "Tail Fact": "She sweats a lot, so she always has a towel for her tail.",
+        "Family Fact": "Her father is very young and is often mistaken for her brother."
+    },
+    {
+        "Name": "Mihono Bourbon",
+        "Profile": "My name is Mihono Bourbon. My goal is locked onto becoming a Triple Crown Umamusume. Please refer to my data for legwork and other information.",
+        "Slogan": "Your orders will be strictly followed! Cyborg Umamusume.",
+        "Weaknesses": "Operating electrical appliances",
+        "Ears Fact": "She wakes up instantly when commanded, even when in a deep sleep.",
+        "Tail Fact": "Rumor has it that she has enough strength to stand on her own tail...",
+        "Family Fact": "Her family is living in an old-fashioned home because of the frequent breakage of household appliances."
+    },
+    {
+        "Name": "Mr. C.B.",
+        "Profile": "There's a breeze only racing can offer. It's light, clear, and..... an unrestrained tailwind. --I'm Mr. C.B.. Nice to meet you.",
+        "Slogan": "Bound by nothing! A cheerful and flawless Umamusume.",
+        "Weaknesses": "Lining up, lies and careless misrepresentations",
+        "Ears Fact": "Can touch her ears with her feet.",
+        "Tail Fact": "Frequently changes tail treatment products.",
+        "Family Fact": "Her parents married half-eloping"
+    },
+    {
+        "Name": "Nakayama Festa",
+        "Profile": "It's Nakayama Festa. Halfhearted races don't give me a thrill. Hey... Let me feel the intense heat of the race...!",
+        "Slogan": "All or nothing! An outlandish gambler who attacks at the last second.",
+        "Weaknesses": "Dried squid",
+        "Ears Fact": "She added the ear-holes to her beanie herself.",
+        "Tail Fact": "Uses her tail movements as a bluff when gambling.",
+        "Family Fact": "All of her family members are poor sleepers."
+    },
+    {
+        "Name": "Narita Brian",
+        "Profile": "...I'm Narita Brian. I don't have a story to tell you. I just run, crush, and win.",
+        "Slogan": "She speaks with her back! A hard-headed, stubborn, lone wolf!",
+        "Weaknesses": "Handling small creatures",
+        "Ears Fact": "Hearing the fanfare gets her fired up.",
+        "Tail Fact": "She rarely takes care of her tail.",
+        "Family Fact": "Her parents and sister always say \"taciturnity is a sign of kindness\"."
+    },
+    {
+        "Name": "Narita Taishin",
+        "Profile": "Narita Taishin. That's all. I just want to win and shove it in the faces of the ones who made fun of me... Leave me alone.",
+        "Slogan": "Cool and dry! Even though she's small, she still wins.",
+        "Weaknesses": "Crowds",
+        "Ears Fact": "They only turn towards topics that interest her.",
+        "Tail Fact": "Flicks when touched by anyone other than a trusted friend.",
+        "Family Fact": "Rumor has it that the moms of BNW are friends now."
+    },
+    {
+        "Name": "Narita Top Road",
+        "Profile": "Hello, I'm Narita Top Road! I will do my best to live up to the expectations of all of the ones who support me!",
+        "Slogan": "Flawless honor student! But she likes the supporting role...?",
+        "Weaknesses": "Cats, crows",
+        "Ears Fact": "She's been an ear model before.",
+        "Tail Fact": "She's worried about it getting frizzy in humidity.",
+        "Family Fact": "She gets her angry eyes from her father."
+    },
+    {
+        "Name": "Neo Universe",
+        "Profile": "Neo Universe would like to propose a friendly \"contact\". In other words— \"Nice to meet you\".",
+        "Slogan": "A little strange? Or more than just a little? Umamusume with an outer space vibe.",
+        "Weaknesses": "\"Normal\" conversations, wasabi",
+        "Ears Fact": "Their parabolic shape is perfect for receiving \"signals\".",
+        "Tail Fact": "Becomes a Dust Tail when she's not feeling well.",
+        "Family Fact": "She can understand about 54% of what her dad says."
+    },
+    {
+        "Name": "Nice Nature",
+        "Profile": "Uh... I'm Nice Nature. I guess I don't really live up to the name of \"Nice Nature\", haha... Let's take it easy, shall we?",
+        "Slogan": "Expectations? No, thank you! A cynical girl.",
+        "Weaknesses": "Social media",
+        "Ears Fact": "They tend to react when she hears the word \"nee-chan\".",
+        "Tail Fact": "She takes care of it in the middle of the night in secret.",
+        "Family Fact": "Her parents' snack bar is decorated with articles about their daughter."
+    },
+    {
+        "Name": "Nishino Flower",
+        "Profile": "Hello, my name is Nishino Flower. I want to become a nice, sisterly Umamusume so that everyone can rely on me...!",
+        "Slogan": "Blooming smile ♪ An attentive Umamusume.",
+        "Weaknesses": "Carbonated juice",
+        "Ears Fact": "They have a reputation for being healing and comforting when touched.",
+        "Tail Fact": "It smells like the sun and the scent of flowers in each season.",
+        "Family Fact": "Her most treasured item is a watering can given to her by her parents."
+    },
+    {
+        "Name": "No Reason",
+        "Profile": "Nyahaha! No Reason's the name, and world domination is my game! Let's get this coup started!",
+        "Slogan": "She needs no reason to follow her dreams to world domination!",
+        "Weaknesses": "うす～い枕、花の蜜の香り",
+        "Ears Fact": "形に合わせた兜を発注している",
+        "Tail Fact": "炭酸シャンプーで洗うのが好き",
+        "Family Fact": "父は自宅でも陣太鼓で娘のレースを応援"
+    },
+    {
+        "Name": "North Flight",
+        "Profile": "North Flight here! My outfits, make-up, accessories and above all, huge effort are what makes me shine! So please watch me!",
+        "Slogan": "Cultivating glitter! She's a shining fashionista.",
+        "Weaknesses": "Foot massages",
+        "Ears Fact": "Careful massages of her ears improve their circulation.",
+        "Tail Fact": "She has plenty of hair styles for her tail.",
+        "Family Fact": "She often chats with her older sister at family meet-ups."
+    },
+    {
+        "Name": "Oguri Cap",
+        "Profile": "I am Oguri Cap. I'm going to do my best to make everyone in my hometown happy. Please take care of me.",
+        "Slogan": "A simple and cool dreamer from the countryside.",
+        "Weaknesses": "Swimming",
+        "Ears Fact": "Can pick out the voices of the people from her hometown in the cheering.",
+        "Tail Fact": "She has a soft body, so every part of it must be maintained.",
+        "Family Fact": "Family vacations mean hot springs, and she is a regular at one of the hidden hot springs."
+    },
+    {
+        "Name": "Orfevre",
+        "Profile": "You'd better show your respect by kneeling before me, the great Orfevre, and respect my reign.",
+        "Slogan": "Reigns supreme in heaven or hell. A tyrant, ruler of the turf.",
+        "Weaknesses": "Humidity",
+        "Ears Fact": "Her ear accessory is made by her father.",
+        "Tail Fact": "Meticulously cared for by her older sister.",
+        "Family Fact": "She inherited her artistic sense from her parents."
+    },
+    {
+        "Name": "Red Desire",
+        "Profile": "私の名はレッドディザイア。\\nこの先、行く道は試練に満ちておりますが、\\n全て乗り越え、真の聖女となりましょう！",
+        "Slogan": "不撓の聖女、\\n試練の果てで救い主とならん",
+        "Weaknesses": null,
+        "Ears Fact": null,
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Rhein Kraft",
+        "Profile": "I'm Rhein Kraft! To make dreams come true, to break open paths, to connect with the future. That's the kind of umamusume I want to be!",
+        "Slogan": "To the twinkling future! A dreaming umamusume, bright like the sun.",
+        "Weaknesses": "Bugs (especially flies), acting",
+        "Ears Fact": "They relax and droop down when she is being cuddled.",
+        "Tail Fact": "It's always fluffy and soft.",
+        "Family Fact": "They often go picnicking when they're together."
+    },
+    {
+        "Name": "Rice Shower",
+        "Profile": "I'm... Rice Shower. Um... I'm a useless girl who makes others unhappy... but I'm trying my best to change!",
+        "Slogan": "Unhappy disposition? A sorrowful maiden who lives a praiseworthy life.",
+        "Weaknesses": "Other's misfortune, ghosts",
+        "Ears Fact": "They droop when she hears about other's unhappiness.",
+        "Tail Fact": "She pays attention not to bump it into people.",
+        "Family Fact": "She used to fall asleep listening to her parents read picture books."
+    },
+    {
+        "Name": "Rose Kingdom",
+        "Profile": null,
+        "Slogan": null,
+        "Weaknesses": null,
+        "Ears Fact": null,
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Royce and Royce",
+        "Profile": "I have but one goal: to be the Strongest! I want my name to go down in history, and to do that I'll paint myself in the best light!",
+        "Slogan": "Creating her legend! Aims to be the strongest, in her own peculiar ways.",
+        "Weaknesses": "『こちら側のどこからでも開けられます』",
+        "Ears Fact": "自分の評判は即・キャッチ！",
+        "Tail Fact": "尻尾用コロンは自分で調合",
+        "Family Fact": "昔、妹の小学校デビューをプロデュースした"
+    },
+    {
+        "Name": "Rulership",
+        "Profile": null,
+        "Slogan": null,
+        "Weaknesses": null,
+        "Ears Fact": null,
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Sakura Bakushin O",
+        "Profile": "Hello! My name is Sakura Bakushin O! As you can see, I am a brilliant class representative! Let's set a great example for everyone! BAKUSHIIIN!",
+        "Slogan": "The great and reckless class president. She's always on the move!",
+        "Weaknesses": "Things that require more than 3 steps",
+        "Ears Fact": "She only hears half of what people are saying.",
+        "Tail Fact": "When she's rushing, you can't even catch the tips of her tail.",
+        "Family Fact": "Her family's motto is \"Praise, praise, praise, and praise!\"."
+    },
+    {
+        "Name": "Sakura Chitose O",
+        "Profile": "サクラチトセオーです。…おや、お顔色が？\\nよければ、食を見直してみては。\\n気血水の整いは、日々の活力の源ですから",
+        "Slogan": "食を以て薬とす――\\n鷹揚自若の仙者ウマ娘",
+        "Weaknesses": null,
+        "Ears Fact": null,
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Sakura Chiyono O",
+        "Profile": "I'm S-Sakura Chiyono O! I will make my dream of standing on my ideal stage with the person of my dreams blossom!",
+        "Slogan": "Chase your dreams! An honest and hardworking girl!",
+        "Weaknesses": "Cars and airplanes (prone to motion sickness)",
+        "Ears Fact": "When she thinks of a good proverb, her ears tingle.",
+        "Tail Fact": "Tended to with the same oil that Maruzensky uses.",
+        "Family Fact": "Dinner was often a potluck with her family."
+    },
+    {
+        "Name": "Sakura Laurel",
+        "Profile": "I'm Sakura Laurel. My goal is the world. The Prix de l'Arc de Triomphe! --Well, it's just a \"dream\" now, but... I'll make it come true someday for sure!",
+        "Slogan": "Calm and unyielding. A cherry blossom blooming beyond winter.",
+        "Weaknesses": "The moment of take-off (otherwise fine on planes)",
+        "Ears Fact": "Stand up when hearing the sound of a horn.",
+        "Tail Fact": "The hair is very fluffy, just like her mom's.",
+        "Family Fact": "Her father passed down his recipe for omelettes and galettes to her."
+    },
+    {
+        "Name": "Samson Big",
+        "Profile": null,
+        "Slogan": null,
+        "Weaknesses": null,
+        "Ears Fact": null,
+        "Tail Fact": null,
+        "Family Fact": null
+    },
+    {
+        "Name": "Satono Crown",
+        "Profile": "I'm Satono Crown! I will bring pride to the Satono Group. I'll give it my all. I will find strength in adversity! Just you wait!",
+        "Slogan": "The turf's illusionist! A trustworthy elite older sister.",
+        "Weaknesses": "The midsummer heat, unscheduled days off",
+        "Ears Fact": "They tend to clench at crucial moments.",
+        "Tail Fact": "Treated with products from the Satono Group hotel chain.",
+        "Family Fact": "They share their random thoughts through social media."
+    },
+    {
+        "Name": "Satono Diamond",
+        "Profile": "My name is Satono Diamond. My fate has never been decided from the beginning. I will make the future shine with my running!",
+        "Slogan": "Diamond-grade core! A young lady who defies jinxes!",
+        "Weaknesses": "Rain, walking through crowds",
+        "Ears Fact": "Always have a translucent sheen.",
+        "Tail Fact": "It feels supreme (Kitasan Black's words).",
+        "Family Fact": "Her father is a distinguished man and a philanthropist in the Umamusume world."
+    },
+    {
+        "Name": "Seeking the Pearl",
+        "Profile": "Haa-ha-ha-ha! It's Seeking the Pearl! Guess what? The world is full of possibilities, and I'm gonna prove it to you!",
+        "Slogan": "Take on the world! The older sister who makes the world her oyster.",
+        "Weaknesses": "Gargling",
+        "Ears Fact": "Intuitively understands many languages by feel.",
+        "Tail Fact": "Learned calligraphy with her tail to perform internationally.",
+        "Family Fact": "Her whole family has matching sunglasses."
+    },
+    {
+        "Name": "Seiun Sky",
+        "Profile": "Yahoo-, it's Seiun Sky. Take your time and relax... When you're aiming for a big goal, it's important to take your time, right?",
+        "Slogan": "My pace, my life. Like a drifting cloud...",
+        "Weaknesses": "Small, cramped places (The gate, the gate!)",
+        "Ears Fact": "When they stand on edge, it's meaningful.",
+        "Tail Fact": "Naturally well-done without tending to it.",
+        "Family Fact": "When she goes home, she goes fishing with her grandfather and his fishing buddies."
+    },
+    {
+        "Name": "Shinko Windy",
+        "Profile": "Roar~! It's Shinko Windy! You scared? You can tell me if you're scared~! ...Hey! Don't ignore me! Grrrrr!",
+        "Slogan": "She loves causing mischief! If you don't give her attention, she'll bite you!",
+        "Weaknesses": "Cotton candy",
+        "Ears Fact": "They ping back and forth when she thinks of a new prank.",
+        "Tail Fact": "Often has drool on it when she wakes up.",
+        "Family Fact": "The whole family sang the commercial song for her dad's company."
+    },
+    {
+        "Name": "Silence Suzuka",
+        "Profile": "I'm Silence Suzuka. I like to run. I'm not giving the lead to anyone. Um... That's all.",
+        "Slogan": "The Silent Rider. Aiming to go beyond the speed of sound",
+        "Weaknesses": "Crowded places",
+        "Ears Fact": "They tune out everything when she's thinking about running.",
+        "Tail Fact": "She puts care into it to reduce air resistance.",
+        "Family Fact": "They give her extra money for shoes."
+    },
+    {
+        "Name": "Sirius Symboli",
+        "Profile": "Sirius Symboli! No need to talk about the race. Just shut up and watch. I'm going to conquer the world and prove that I'm the strongest.",
+        "Slogan": "World's brightest star to be! Charismatic Umamusu of ambition.",
+        "Weaknesses": "Meaningless talk, flattery, puns",
+        "Ears Fact": "Can't sleep without earplugs.",
+        "Tail Fact": "Tends to get all frizzy when she's frustrated.",
+        "Family Fact": "Her father used to hire a different private tutor every day."
+    },
+    {
+        "Name": "Smart Falcon",
+        "Profile": "I'm Smart Falcon! You can call me Falco! My dream is to become a Umadol! Autographs are always welcome ☆",
+        "Slogan": "She'll handle the fanservice! Future Top Umadol.",
+        "Weaknesses": "Studying",
+        "Ears Fact": "They pick up on every single fan's voice.",
+        "Tail Fact": "She pays attention to how she sits so that she doesn't get in the habit of sitting improperly.",
+        "Family Fact": "Her hair ornament is from the first idol costume that her mother made."
+    },
+    {
+        "Name": "Sounds of Earth",
+        "Profile": "Behold, my lovely musciciste! Join me, Sounds of Earth, to create a wonderful melodia together!",
+        "Slogan": "The race is her ensemble! An artistic Umamusume with a love for music.",
+        "Weaknesses": "Wasabi, artificial sweeteners, taking notes",
+        "Ears Fact": "Her covers are from an overseas brand that specializes in fabrics.",
+        "Tail Fact": "She uses different tail cologne when she's in uniform.",
+        "Family Fact": "They tend to chat through jam sessions."
+    },
+    {
+        "Name": "Special Week",
+        "Profile": "My name is Special Week! My dream is to be the best Umamusume in Japan! I'm gonna pull my own weight to make my moms proud!",
+        "Slogan": "Gonna do 'er best! A naive country girl beelining to her dream.",
+        "Weaknesses": "Touch-and-go ticket gates",
+        "Ears Fact": "They pick up on any sound of cooking.",
+        "Tail Fact": "She's not very good at playing poker; her tail calls her bluff.",
+        "Family Fact": "Her eye color came from her birth mother."
+    },
+    {
+        "Name": "Stay Gold",
+        "Profile": "よろしく、ステイゴールドだ。\\nさあ、楽しい旅にしよう！\\n黄金の旅路を気ままに、な",
+        "Slogan": "奔放な放浪者！\\nいつか見た黄金の旅路へ",
+        "Weaknesses": "健康診断",
+        "Ears Fact": "相手の真意は、声色の変化で判断する",
+        "Tail Fact": "どんな環境にさらされてもなぜかサラサラ",
+        "Family Fact": "妹たちいわく、お土産選びのセンスは微妙"
+    },
+    {
+        "Name": "Still in Love",
+        "Profile": "My name is Still in Love. I... I'm not worthy of any more introduction... I like to... keep those things to myself...",
+        "Slogan": "Stuck between instinct and intuition. The craving bewitcher.",
+        "Weaknesses": "大きな姿見、香りの強い食べ物、満月",
+        "Ears Fact": "ひたむきにトレーナーの方を向く",
+        "Tail Fact": "揺れるとほのかにいい香りがする",
+        "Family Fact": "父とはよく歴史談義をする"
+    },
+    {
+        "Name": "Super Creek",
+        "Profile": "Tee-hee... I'm Super Creek~ I'll do my best to make everyone smile. Please leave it to me ♪",
+        "Slogan": "A gentle older sister who can heal you with her calm, motherly nature.",
+        "Weaknesses": "Drawing",
+        "Ears Fact": "She's good at cleaning other's ears, but not getting her ears cleaned.",
+        "Tail Fact": "It's great at soothing small children.",
+        "Family Fact": "Her family's day-care center has a reputation for making people feel at home."
+    },
+    {
+        "Name": "Sweep Tosho",
+        "Profile": "Sweep Tosho is my pre-transformation name! I am Sweepy the Magical Girl! Now this is sorcery! Aaah!! (Bonk)",
+        "Slogan": "A pure and troublesome child! She'll definitely be a witch!",
+        "Weaknesses": "Vehicles, other than broomsticks",
+        "Ears Fact": "Every word she doesn't know sounds like an incantation.",
+        "Tail Fact": "The black cat she tried to tame is treating it like a toy.",
+        "Family Fact": "Whenever she calls her father, he always cries before she hangs up."
+    },
+    {
+        "Name": "Symboli Kris S",
+        "Profile": "--I'm Symboli Kris S. I am indebted to the Symboli family. As one of them, I will carry out both the objectives I have set, and the \"mission\" I have been assigned.",
+        "Slogan": "Foreign-born, taciturn, missionary.",
+        "Weaknesses": "Being barefoot",
+        "Ears Fact": "She stares at other Umamusume with ears that match hers.",
+        "Tail Fact": "Scrubbed thoroughly with special shampoo.",
+        "Family Fact": "The whole family drinks their coffee black in the mornings."
+    },
+    {
+        "Name": "Symboli Rudolf",
+        "Profile": "I am Symboli Rudolf. I am the one who will stand at the top of every Umamusume and lead them to become \"Emperors\". Those of you who share my aspirations, let's work together to conquer the world!",
+        "Slogan": "The reigning \"Emperor\", her authority is absolute!",
+        "Weaknesses": "Interacting with others casually",
+        "Ears Fact": "Her ears prick up when she hears a good pun.",
+        "Tail Fact": "When she's giving a speech, every strand of hair is powerful.",
+        "Family Fact": "Her parents taught her Imperialism from a young age."
+    },
+    {
+        "Name": "T.M. Opera O",
+        "Profile": "Haa-ha-ha-ha! I am the strongest and most beautiful of them all, the \"Supreme King\", T.M. Opera O! Now, let the legend begin!",
+        "Slogan": "Haughty king of the Opera. Her laugh is loud and proud!",
+        "Weaknesses": "Mundane tasks",
+        "Ears Fact": "Every word sounds like praise to her.",
+        "Tail Fact": "It glistens in the light.",
+        "Family Fact": "She respects her parents for raising her to be gorgeous."
+    },
+    {
+        "Name": "Taiki Shuttle",
+        "Profile": "Howdy! I'm Taiki Shuttle! I'm here to make everyone happy with my powerful running!",
+        "Slogan": "American-born friendly girl.",
+        "Weaknesses": "Being alone",
+        "Ears Fact": "Whenever she hears about a party, she runs to it.",
+        "Tail Fact": "She has her tail spray mailed to her.",
+        "Family Fact": "My parents always welcome fireworks in the house."
+    },
+    {
+        "Name": "Tamamo Cross",
+        "Profile": "Ah'm Tamamo Cross! A'hm gonna win'n win'n win to make a name for myself! Don't underestimate me just 'cause ah'm small!",
+        "Slogan": "Just like a bolt of lightning on the attack.",
+        "Weaknesses": "Kotatsu",
+        "Ears Fact": "When she hears the word \"bargain\" or \"sale,\" her ears stand up straight.",
+        "Tail Fact": "Shakes like a lightning bolt when she's angry.",
+        "Family Fact": "When she's with her brothers and sisters, she's called \"Tama-nee\"."
+    },
+    {
+        "Name": "Tanino Gimlet",
+        "Profile": "I am Tanino Gimlet! What I seek is the ideal \"me\". I have no intention of deceiving my temporary self. Destroy it, kick it down, and progress to the end!",
+        "Slogan": "Get drunk on this aesthetic! A peaky, aesthetic, destructive god.",
+        "Weaknesses": "Predictability, soft-boiled eggs, apples",
+        "Ears Fact": "\"Singing my praises is I—\" (She ignored the question.)",
+        "Tail Fact": "\"I destroy common sense—\" (She wants to break a fence with her tail.)",
+        "Family Fact": "Their house's nameplate is made of a broken fence. (Made by her mother.)"
+    },
+    {
+        "Name": "Tap Dance City",
+        "Profile": "Come, friends, and join me on a journey where excitement and dance awaits! Everyone who wants to dream, climb aboard this vessel  with me!",
+        "Slogan": "Capturing friends, dreams and money! An Umamusume who lives for her dream of great adventure.",
+        "Weaknesses": "Keeping time, staredowns",
+        "Ears Fact": "They swivel in search of adventure.",
+        "Tail Fact": "Uses hair oil to make it stand out while dancing.",
+        "Family Fact": "She boasts the flavor of her mother's baked marshmallow pie."
+    },
+    {
+        "Name": "Tokai Teio",
+        "Profile": "Heya, I'm Tokai Teio! I'm going to be an undefeated Triple Crown Umamusume, so don't let me out of your sight!",
+        "Slogan": "Invincible and cute! An innocent, hoppin' girl.",
+        "Weaknesses": "Doctors",
+        "Ears Fact": "They always pay attention to what the Student Council President says.",
+        "Tail Fact": "Waves around excitedly when she gets attention.",
+        "Family Fact": "She cried after trying to not call her parents \"mommy\" and \"daddy\"."
+    },
+    {
+        "Name": "Tosen Jordan",
+        "Profile": "I'm Tosen Jordan. My dream is... actually, serious topics are NG~☆ Anyways, look at my nails! Aren't they cool?",
+        "Slogan": "The uncouth Jordan! A modern-day gal ☆",
+        "Weaknesses": "Healthy food, grape seeds",
+        "Ears Fact": "In order to make them seem fashionable, she takes pictures with both ears folded down.",
+        "Tail Fact": "She always makes sure to check for split ends.",
+        "Family Fact": "Her parents always told her to eat her veggies first. That always made her the most upset."
+    },
+    {
+        "Name": "Transcend",
+        "Profile": "Nice to meetcha, Tray-chan♪ Let's look for exciting, thrilling things together!",
+        "Slogan": "Seeking thrills! She's a data junkie, hunting for solutions.",
+        "Weaknesses": "Clichés, bubble gum",
+        "Ears Fact": "They easily pick up the latest rumors.",
+        "Tail Fact": "She tests the latest tail care products on herself.",
+        "Family Fact": "She tries to avoid her parents on social media."
+    },
+    {
+        "Name": "Tsurumaru Tsuyoshi",
+        "Profile": "Tsurumaru Tsuyoshi! Aiming to become the \"Triple Crown Umamusume\" of my dreams! I'll give it my all... BLEH! I-I just swallowed a lot of blood! I'm fine, I'm alright!",
+        "Slogan": "Dreams of the triple crown!! Always full power!! Liable to break her limits!?",
+        "Weaknesses": "The smell of compresses, low air pressure, being sick in bed",
+        "Ears Fact": "They twitch happily when others ask her for help.",
+        "Tail Fact": "If she doesn't dry it quickly after washing, she'll catch a cold.",
+        "Family Fact": "They often send her fruits."
+    },
+    {
+        "Name": "Twin Turbo",
+        "Profile": "Twin Turbo! I'll take the first Turbo, I'll take it for sure! Let's go, Turbo, full throttle!!!",
+        "Slogan": "Turbo full throttle! An explosive Umamusume who knows no limits!",
+        "Weaknesses": "Kanji",
+        "Ears Fact": "Twitch ever more happily the more she's ran down.",
+        "Tail Fact": "Wags all over the place, never staying still.",
+        "Family Fact": "Her parents found their frail daughter's recklessness to be an indication of growth."
+    },
+    {
+        "Name": "Verxina",
+        "Profile": "I am Verxina. I won't give up until I break down everything in my path to become a queen.",
+        "Slogan": "Deserving of the queen's throne. A celebrity Umamusume with unyielding spirit.",
+        "Weaknesses": "アラザン、固ゆで卵",
+        "Ears Fact": "捕球音だけで家族の誰が投げた球かわかる",
+        "Tail Fact": "小さい頃は、母がよく梳かしてくれた",
+        "Family Fact": "相談話はキャッチボール中にしがち"
+    },
+    {
+        "Name": "Victoire Pisa",
+        "Profile": "ヴィクトワールピサと申します。\\n「ひとりぼっち」をなくせるよう、世界を\\n希望の輪で繋ぎたいのです。私の走りで",
+        "Slogan": "温かな輪を繋ぐ、\\n希望の使者",
+        "Weaknesses": "知恵の輪を解くこと",
+        "Ears Fact": "ふわふわで、よく友人に触らせてあげている",
+        "Tail Fact": "まとめるときに使うゴムはトルコ石付き",
+        "Family Fact": "実家の家具は、配置が計算し尽くされている"
+    },
+    {
+        "Name": "Vivlos",
+        "Profile": "I'm Vivlos! One day I'll be a celebrity, racing in sparklign Dubai!♪ And you're coming with me, no ifs or buts!♪",
+        "Slogan": "Talented at getting pampered. Dreams of crossing the big wide ocean.",
+        "Weaknesses": "Noise, cleaning up",
+        "Ears Fact": "When pleading, she flaps them unconsciously.",
+        "Tail Fact": "She uses conditioner from a brand for celebrities.",
+        "Family Fact": "Their father's hamburg steaks are a staple at family gatherings."
+    },
+    {
+        "Name": "Vodka",
+        "Profile": "Yo, I'm Vodka! My goal is to be the coolest Umamusume in the world! I'm not gonna do anything stupid. Remember that!",
+        "Slogan": "Runaway youth! A pure-hearted, delinquent roadster",
+        "Weaknesses": "Love stories",
+        "Ears Fact": "She gets really shy when someone touches them.",
+        "Tail Fact": "She practices shaking it to look cool.",
+        "Family Fact": "Her and her dad are very mischievous together, they get scolded by her mom a lot."
+    },
+    {
+        "Name": "Win Variation",
+        "Profile": "I'm Win Variation. My only goal is to become the leader... the Principal! No matter how tough my opponents may be, I refuse to give up!",
+        "Slogan": "A strong willed Umamusume who never gives up, no matter how many times she loses!",
+        "Weaknesses": "Contemporary dance, walking the catwalk",
+        "Ears Fact": "They respond to classical music.",
+        "Tail Fact": "She doesn't hate having it be touched, but it makes her feel a little uneasy.",
+        "Family Fact": "Her mother taught her nail care."
+    },
+    {
+        "Name": "Winning Ticket",
+        "Profile": "My... My... My dream is to be a Derby Umamusume! And then there's... ah! My name!!!! My name is Winning Ticket! Nice to meet you!",
+        "Slogan": "Laugh and cry to your heart's content! An honest girl who's true to her feelings.",
+        "Weaknesses": "Not giving her all!!!!!!",
+        "Ears Fact": "According to her best friend, \"Even her ear movement is annoying\".",
+        "Tail Fact": "Expressions of joy, anger, grief, and pleasure are always visible.",
+        "Family Fact": "Watching the Derby together is the most important family event of all."
+    },
+    {
+        "Name": "Wonder Acute",
+        "Profile": "I'm Wonder Acute. I'm a slow learner, but I'm a hard worker. Please take care of me.",
+        "Slogan": "Relaxed, calm, and patient. A spirited Umamusume who never gives up.",
+        "Weaknesses": "Trendy western writing, wearables",
+        "Ears Fact": "Always respond to the sound of a gong.",
+        "Tail Fact": "Elegantly slips away from any touching attempts",
+        "Family Fact": "Her mother is the most relaxed person in her family."
+    },
+    {
+        "Name": "Yaeno Muteki",
+        "Profile": "I'm Yaeno Muteki. As a disciple of the Kongo Yaegaki way, I desire to race with the strong. Come on, let's fight like crazy!!",
+        "Slogan": "Charge, with might and decorum. A rugged Umamusume.",
+        "Weaknesses": "Seiza, snacking while shopping",
+        "Ears Fact": "She blushes a little when she hears a pretty voice.",
+        "Tail Fact": "It's strong enough to knock down flying objects.",
+        "Family Fact": "Whenever she returns home, she always pats her grandfather on the shoulder."
+    },
+    {
+        "Name": "Yamanin Zephyr",
+        "Profile": "......My name is Yamanin Zephyr. My goal is to be the wind... I want to be like the wind that runs faster and freer than anything else!",
+        "Slogan": "A naturally breezy Umamusume. Even so, her soul is like a gale.",
+        "Weaknesses": "Air conditioning",
+        "Ears Fact": "They're a resting place for butterflies and small birds.",
+        "Tail Fact": "She lets it dry naturally.",
+        "Family Fact": "Her home is famous in her hometown for being a fancy house where fairies live."
+    },
+    {
+        "Name": "Yukino Bijin",
+        "Profile": "Oh, my name is Yukino Bijin! My dream is to become a stylish city gal in the Twankle Series! Phew... I hope I said that right...",
+        "Slogan": "Aiming to be a City Girl! A hardworking girl from a rural area.",
+        "Weaknesses": "Heat",
+        "Ears Fact": "Owns many adorable earmuffs.",
+        "Tail Fact": "Currently trying out low-price care products.",
+        "Family Fact": "Reliefed their daughter retains her dialect after going to the city"
+    },
+    {
+        "Name": "Zenno Rob Roy",
+        "Profile": "My name is Zenno Rob Roy. Well... this is me, but I'm longing for a heroic tale... I would like to tell my story within a race someday...!",
+        "Slogan": "One day, she'll have a heroic tale. An imaginative reader.",
+        "Weaknesses": "Humidity, goats",
+        "Ears Fact": "When the story reaches its climax, they flicks and turn all over the place.",
+        "Tail Fact": "In crowds, she gets nervous and doesn't move it an inch.",
+        "Family Fact": "Her parents can talk about the latest household appliances until the sun goes down."
+    }
+]
